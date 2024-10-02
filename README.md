@@ -10,6 +10,8 @@ proyectos y mis intereses.
 * Ocupación: Estudiante
 * Lugar de residencia: ESPOL
 ## Proyectos
-* [Lista de tus proyectos]
+* Programa cliente-servidor
+* Encriptador de archivos
+* Juego 3 en raya
 ## Intereses
-* [Lista de tus intereses]
+* Astrofisica
