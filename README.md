@@ -1,4 +1,4 @@
-# 🧠 Christopher Rberto Villon Loor
+# 🧠 Christopher Roberto Villon Loor
 Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
 proyectos y mis intereses.
 
