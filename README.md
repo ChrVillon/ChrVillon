@@ -18,7 +18,7 @@ proyectos y mis intereses.
 * [Tecnologias y Herramientas](#tecnologías-y-herramientas)
 * [Estadísticas en GitHub](#estidísticas-en-github)
 
-## :start2: Sobre mí 
+## :star2: Sobre mí 
 Soy estudiante de Ciencias de la Computación en ESPOL, apasionado por la programación, la ciberseguridad y el desarrollo web. Me gusta resolver problemas complejos y llevar a cabo proyectos que representen un reto técnico o que tengan un impacto significativo. Actualmente me encuentro viviendo en la ciudad de Guayaquil-Ecuador.
 
 ## :hammer_and_wrench: Proyectos
